@@ -33,8 +33,20 @@ class RebelExtractor:
             self.device = "cuda" if torch.cuda.is_available() else "cpu"
 
         print(f"Loading REBEL model: {self.model_name} on device: {self.device}")
-        self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
-        self.model = AutoModelForSeq2SeqLM.from_pretrained(self.model_name)
+        
+        # 支持本地路径和离线加载
+        # 如果 model_name 是本地路径，添加 local_files_only=True 确保离线
+        import os
+        is_local = os.path.exists(self.model_name)
+        
+        self.tokenizer = AutoTokenizer.from_pretrained(
+            self.model_name,
+            local_files_only=is_local  # 本地路径时强制离线
+        )
+        self.model = AutoModelForSeq2SeqLM.from_pretrained(
+            self.model_name,
+            local_files_only=is_local  # 本地路径时强制离线
+        )
         self.model.to(self.device)
         self.model.eval()
 
