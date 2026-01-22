@@ -1,0 +1,5 @@
+transformers>=4.30.0
+torch>=2.0.0
+networkx>=3.0
+neo4j>=5.0.0
+python-dotenv>=1.0.0

@@ -1,0 +1,494 @@
+{
+  "entities": [
+    {
+      "text": "EduConnect",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "Online Education Platform",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "remote education",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "online education",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "Zhang Wei",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "project manager",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "2020 Summer Olympics",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "2020",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "intelligent assessment",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "education",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "Spring Boot",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "microservices architecture",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "students",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "teachers",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "user registration function",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "Wang Qiang",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "JWT",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "User authentication",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "MySQL",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "database",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "Teachers",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "teaching",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "PPT",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "documents",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "tree structure",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "Course classification",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "Alibaba Cloud",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "OSS",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "live streaming",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "video transmission",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "whiteboard",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "screen sharing",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "2008 Summer Olympics",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "2008",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "fill-in-the-blank",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "multiple choice",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "Objective question",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "subjective question",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "facial recognition",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "anti-cheating mechanisms",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "graph",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "chart",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "forum",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "post",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "private messaging",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "communication",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "GPT-4",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "intelligent Q&A chatbot",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "WebSocket",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "Message notification",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "React",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "TypeScript",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "Ant Design",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "UI component library",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "Redux Toolkit",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "State management",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "Video.js",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "library",
+      "type": null,
+      "id": null
+    }
+  ],
+  "triples": [
+    {
+      "head": "EduConnect",
+      "relation": "instance of",
+      "tail": "Online Education Platform",
+      "confidence": 1.0
+    },
+    {
+      "head": "remote education",
+      "relation": "subclass of",
+      "tail": "online education",
+      "confidence": 1.0
+    },
+    {
+      "head": "Zhang Wei",
+      "relation": "occupation",
+      "tail": "project manager",
+      "confidence": 1.0
+    },
+    {
+      "head": "2020 Summer Olympics",
+      "relation": "point in time",
+      "tail": "2020",
+      "confidence": 1.0
+    },
+    {
+      "head": "intelligent assessment",
+      "relation": "facet of",
+      "tail": "education",
+      "confidence": 1.0
+    },
+    {
+      "head": "Spring Boot",
+      "relation": "use",
+      "tail": "microservices architecture",
+      "confidence": 1.0
+    },
+    {
+      "head": "students",
+      "relation": "has part",
+      "tail": "teachers",
+      "confidence": 1.0
+    },
+    {
+      "head": "teachers",
+      "relation": "part of",
+      "tail": "students",
+      "confidence": 1.0
+    },
+    {
+      "head": "user registration function",
+      "relation": "developer",
+      "tail": "Wang Qiang",
+      "confidence": 1.0
+    },
+    {
+      "head": "JWT",
+      "relation": "use",
+      "tail": "User authentication",
+      "confidence": 1.0
+    },
+    {
+      "head": "MySQL",
+      "relation": "instance of",
+      "tail": "database",
+      "confidence": 1.0
+    },
+    {
+      "head": "Teachers",
+      "relation": "field of this occupation",
+      "tail": "teaching",
+      "confidence": 1.0
+    },
+    {
+      "head": "teaching",
+      "relation": "practiced by",
+      "tail": "Teachers",
+      "confidence": 1.0
+    },
+    {
+      "head": "PPT",
+      "relation": "subclass of",
+      "tail": "documents",
+      "confidence": 1.0
+    },
+    {
+      "head": "tree structure",
+      "relation": "use",
+      "tail": "Course classification",
+      "confidence": 1.0
+    },
+    {
+      "head": "Alibaba Cloud",
+      "relation": "instance of",
+      "tail": "OSS",
+      "confidence": 1.0
+    },
+    {
+      "head": "live streaming",
+      "relation": "subclass of",
+      "tail": "video transmission",
+      "confidence": 1.0
+    },
+    {
+      "head": "whiteboard",
+      "relation": "use",
+      "tail": "screen sharing",
+      "confidence": 1.0
+    },
+    {
+      "head": "2008 Summer Olympics",
+      "relation": "point in time",
+      "tail": "2008",
+      "confidence": 1.0
+    },
+    {
+      "head": "2008 Summer Olympics",
+      "relation": "point in time",
+      "tail": "2008",
+      "confidence": 1.0
+    },
+    {
+      "head": "fill-in-the-blank",
+      "relation": "subclass of",
+      "tail": "multiple choice",
+      "confidence": 1.0
+    },
+    {
+      "head": "Objective question",
+      "relation": "opposite of",
+      "tail": "subjective question",
+      "confidence": 1.0
+    },
+    {
+      "head": "facial recognition",
+      "relation": "subclass of",
+      "tail": "anti-cheating mechanisms",
+      "confidence": 1.0
+    },
+    {
+      "head": "graph",
+      "relation": "part of",
+      "tail": "chart",
+      "confidence": 1.0
+    },
+    {
+      "head": "forum",
+      "relation": "uses",
+      "tail": "post",
+      "confidence": 1.0
+    },
+    {
+      "head": "post",
+      "relation": "used by",
+      "tail": "forum",
+      "confidence": 1.0
+    },
+    {
+      "head": "private messaging",
+      "relation": "subclass of",
+      "tail": "communication",
+      "confidence": 1.0
+    },
+    {
+      "head": "GPT-4",
+      "relation": "use",
+      "tail": "intelligent Q&A chatbot",
+      "confidence": 1.0
+    },
+    {
+      "head": "WebSocket",
+      "relation": "use",
+      "tail": "Message notification",
+      "confidence": 1.0
+    },
+    {
+      "head": "React",
+      "relation": "programming language",
+      "tail": "TypeScript",
+      "confidence": 1.0
+    },
+    {
+      "head": "Ant Design",
+      "relation": "instance of",
+      "tail": "UI component library",
+      "confidence": 1.0
+    },
+    {
+      "head": "Redux Toolkit",
+      "relation": "use",
+      "tail": "State management",
+      "confidence": 1.0
+    },
+    {
+      "head": "Video.js",
+      "relation": "instance of",
+      "tail": "library",
+      "confidence": 1.0
+    }
+  ]
+}

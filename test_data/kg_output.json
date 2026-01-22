@@ -1,0 +1,38 @@
+{
+  "entities": [
+    {
+      "text": "2025年3月上线",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "2025",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "MongoDB",
+      "type": null,
+      "id": null
+    },
+    {
+      "text": "MySQL",
+      "type": null,
+      "id": null
+    }
+  ],
+  "triples": [
+    {
+      "head": "2025年3月上线",
+      "relation": "point in time",
+      "tail": "2025",
+      "confidence": 1.0
+    },
+    {
+      "head": "MongoDB",
+      "relation": "based on",
+      "tail": "MySQL",
+      "confidence": 1.0
+    }
+  ]
+}
